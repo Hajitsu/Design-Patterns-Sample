@@ -291,4 +291,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Jar files to track
+!libs/*
 # End of https://www.toptal.com/developers/gitignore/api/java,macos,linux,windows,intellij,intellij+all,maven
