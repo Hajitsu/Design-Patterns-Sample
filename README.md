@@ -1,1 +1,25 @@
-# Design-Patterns-Sample
+# Design Patterns in Java
+- Singleton
+- Factory
+- Abstract Factory
+- Builder
+- Prototype
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Proxy
+- Chain of Responsibility
+- Command
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observe
+- State
+- Strategy
+- Template
+- Visitor
+
+All Samples are based on GOF book and Ramin Zare training videos ([+](https://www.youtube.com/playlist?list=PLT--3zJy_gmlZ5OGsqcubvynitY5vslJm)) , ([+](https://github.com/zare88/training/tree/master/slides/design_patterns))
