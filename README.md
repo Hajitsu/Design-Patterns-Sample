@@ -22,4 +22,4 @@
 - Template
 - Visitor
 
-All Samples are based on GOF book and Ramin Zare training videos ([+](https://www.youtube.com/playlist?list=PLT--3zJy_gmlZ5OGsqcubvynitY5vslJm))
+All Samples are based on GOF book and Ramin Zare training videos ([+](https://www.youtube.com/playlist?list=PLT--3zJy_gmlZ5OGsqcubvynitY5vslJm)) , ([+](https://github.com/zare88/training/tree/master/slides/design_patterns))
